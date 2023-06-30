@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+#backups
+*~
+
 # Executables
 *.exe
 *.out
